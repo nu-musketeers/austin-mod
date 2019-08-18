@@ -24,7 +24,7 @@ For Windows, use `gradlew` instead of `./gradlew`
 
 ## Cloning and Building - IntelliJ GUI
 1. Navigate to your workspace
-2. Run `git clone https://github.com/nu-musketeers/stridden-mod.git`
+2. Run `git clone https://github.com/nu-musketeers/austin-mod.git`
 3. Start IntelliJ and import the project's `build.gradle`
 4. Open the Gradle tab
 5. Run `Tasks > forgegradle > setupDecompWorkspace`
