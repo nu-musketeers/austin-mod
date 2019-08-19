@@ -1,12 +1,13 @@
 {
-  "homepage": "http://jabelarminecraftmods.blogspot.com/",
+  "homepage": "",
   "promos": 
   {
-    "1.12.2-latest": "1.0.0",
-    "1.12.2-recommended": "1.0.0"
+    "1.12.2-latest": "1.0.1",
+    "1.12.2-recommended": "1.0.1"
   },
   "1.12.2": 
   {
-    "1.0.0": "jabelar: Initial release showcasing block, item and entity registration, event handling, custom fluids and such." 
+    "1.0.0": "jabelar: Initial release showcasing block, item and entity registration, event handling, custom fluids and such." ,
+    "1.0.1": "opcode_: Fork of jabelars example mod repo"
   }
 }

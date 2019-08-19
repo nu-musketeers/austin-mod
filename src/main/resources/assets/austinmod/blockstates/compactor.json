@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "facing=north": { "model": "austinmod:compactor" },
+        "facing=south": { "model": "austinmod:compactor", "y": 180 },
+        "facing=west":  { "model": "austinmod:compactor", "y": 270 },
+        "facing=east":  { "model": "austinmod:compactor", "y": 90 },
+        "inventory": { "model": "austinmod:compactor" }
+    }
+}

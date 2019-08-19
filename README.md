@@ -1,5 +1,5 @@
 # Austin's Mod
-Forked from https://github.com/jabelar/ExampleMod-1.12
+Forked from https://github.com/jabelar/austinmod-1.12
 
 To make your own mod, fork from that repository. 
 

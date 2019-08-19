@@ -1,0 +1,14 @@
+{
+    "forge_marker": 1,
+     "defaults": {
+        "textures": {
+            "particle": "austinmod:blocks/cloud"
+        },
+        "model": "austinmod:cloud",
+        "uvlock": true
+    },
+    "variants": {
+        "normal": [{ }],
+        "inventory": [{ }]
+    }
+}

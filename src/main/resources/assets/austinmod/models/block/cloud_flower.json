@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "austinmod:blocks/cloud_flower"
+    }
+}

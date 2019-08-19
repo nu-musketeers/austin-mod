@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "austinmod:blocks/cloud_leaves"
+    }
+}
